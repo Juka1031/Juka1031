@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Projects
- https://julian-kang.com/
+[<strong>Personal Website <strong> ](https://julian-kang.com/)
 ### <strong>Home Sweet Woof: <strong> [Live](https://homesweetwoof.herokuapp.com/#/) [Repo](https://github.com/Juka1031/Home-Sweet-Woof)
 >A dog adoption platform that connects potential adopters with shelters through a systematic database of adoptable dogs
   
