@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 >A dog adoption platform that connects potential adopters with shelters through a systematic database of adoptable dogs
   
 ### <strong>500Pxy: <strong> [Live](https://pxy500.herokuapp.com/?#/) [Repo](https://github.com/Juka1031/500Pxy)
->A ![500px](https://500px.com/) clone developed with a React/Redux frontend and Ruby on Rails as the backend
+>A
+>[<strong>Personal Website <strong> ](https://500px.com/)
+>![500px](https://500px.com/) clone developed with a React/Redux frontend and Ruby on Rails as the backend
   
 ### <strong>Ascension: <strong> [Live](https://juka1031.github.io/Ascension/) [Repo](https://github.com/Juka1031/Ascension)
 >A 2d platformer game where the user tries to overcome obstacles through multiple levels to reach the goal.
